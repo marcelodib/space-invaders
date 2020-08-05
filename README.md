@@ -7,7 +7,7 @@ O Space invaders foi um jogo desenvolvido em assembly x86 para ser executado em 
 - Conforme os aliens são abatidos sua velocidade vai aumentando.
 - Com o passar do tempo vão se aproximando da nave, até que ela seja destruida.
 
-# Execução 
+## Execução 
 
 - É necessario realizar o download do DOS BOX.
 - Criar uma partição de disco refenciando seu próprio disco local C.
